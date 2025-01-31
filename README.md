@@ -59,7 +59,7 @@ This project performs sentiment analysis on IMDB movie reviews using Natural Lan
 
 ## 📂 Project Structure  
 ```
-Sentiment-Analysis/
+ Sentimental_Analysis_Movie_Review/ #This is the project folder
 ├── Sentimental_Movie_Review.ipynb   # Main code file for analysis 
 └── README.md               # Project documentation
 ```
