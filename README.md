@@ -66,7 +66,7 @@ Sentiment-Analysis/
 ```
 
 ## 📂 Dataset
-The dataset used for sentiment analysis is the [IMDB Dataset](https://raw.githubusercontent.com/mlaxmi1304/Sentimental_Analysis_Movie_Review/main/IMDB-Dataset.csv).  
+The dataset used for sentiment analysis is the [IMDB Dataset](https://media.geeksforgeeks.org/wp-content/uploads/20240514105101/IMDB-Dataset.csv).  
 You can download the dataset from this link and place it in your project directory.
 
 
