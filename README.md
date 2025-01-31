@@ -60,8 +60,7 @@ This project performs sentiment analysis on IMDB movie reviews using Natural Lan
 ## 📂 Project Structure  
 ```
 Sentiment-Analysis/
-├── IMDB-Dataset.csv       # Dataset of IMDB reviews
-├── sentiment_analysis.py   # Main code file for analysis (or sentiment_analysis.ipynb for Jupyter Notebook)
+├── Sentimental_Movie_Review.ipynb   # Main code file for analysis 
 └── README.md               # Project documentation
 ```
 
