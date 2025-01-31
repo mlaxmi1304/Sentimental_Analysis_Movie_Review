@@ -64,8 +64,11 @@ Sentiment-Analysis/
 ├── sentiment_analysis.py   # Main code file for analysis (or sentiment_analysis.ipynb for Jupyter Notebook)
 └── README.md               # Project documentation
 ```
+
 ## 📂 Dataset
-The dataset used for sentiment analysis is the IMDB Dataset.
+The dataset used for sentiment analysis is the [IMDB Dataset](https://raw.githubusercontent.com/mlaxmi1304/Sentimental_Analysis_Movie_Review/main/IMDB-Dataset.csv).  
+You can download the dataset from this link and place it in your project directory.
+
 
 ## 📊 Key Steps in Analysis  
 - **Data Preprocessing:**  
